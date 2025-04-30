@@ -1,7 +1,0 @@
-
-Verion History:
-    Version 1: Basic functions and functionality
-    Version 2: Fixed evaluation/answer output
-    Version 3: Any fixes made to decrease runtime while maintaining proper functionality
-
-C code feels goofy.
